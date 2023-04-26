@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋 I'm Livia Fornazari
+
+### Who am I? 
+
+* 📊 Data Analyst
+* 🎲 Data Scientist
+* 👨🏼‍🎓 Graduating in Data Science at [Estácio](https://estacio.br/cursos/graduacao/ciencia-de-dados).
+* 🌐 Coursing Dominando Data Science at [FLAI](https://www.flai.com.br/dds/)
+
+
+### Hard Skills 💻 
+
+* 📊 Power BI
+* 📋 Excel
+* 🗄  SQL
+* 🐍 Python
+* 🔮 Machine Learning 
+
+### Find me too in:
+
+<div display="inline">
+<a href="https://www.linkedin.com/in/liviafornazari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 **LiviaFornazari/LiviaFornazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
