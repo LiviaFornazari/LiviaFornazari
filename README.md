@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Livia Fornazari
+## Hi there 👋🏻 I'm Livia Fornazari
 
 ### Who am I? 
 
 * 📊 Data Analyst
 * 🎲 Data Scientist
-* 👨🏼‍🎓 Graduating in Data Science at [Estácio](https://estacio.br/cursos/graduacao/ciencia-de-dados).
+* 🎓 Graduating in Data Science at [Estácio](https://estacio.br/cursos/graduacao/ciencia-de-dados).
 * 🌐 Coursing Dominando Data Science at [FLAI](https://www.flai.com.br/dds/)
 
 
