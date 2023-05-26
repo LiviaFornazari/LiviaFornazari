@@ -4,8 +4,10 @@
 
 * 📊 Data Analyst
 * 🎲 Data Scientist
-* 🎓 Graduating in Data Science at [Estácio](https://estacio.br/cursos/graduacao/ciencia-de-dados).
+* 🎓 Graduating in Letras (Licenciatura em Língua Portuguesa e Língua Inglesa) at [Unip](https://www.unip.br/cursos/graduacao/tradicionais/letras_licenciatura_portugues_ingles.aspx)
 * 🌐 Coursing Dominando Data Science at [FLAI](https://www.flai.com.br/dds/)
+* 🔭 I’m currently working on Data Anlysis projects related to the Publishing Industry
+* 📚 I love literature, art, linguistics and writing.
 
 
 ### Hard Skills 💻 
